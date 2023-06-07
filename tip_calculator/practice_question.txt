@@ -1,0 +1,5 @@
+Welcome to my tip calculator
+What was the total bill?
+What percentage tip will you like to give? 10, 12 or 15?
+How many people will split the bill?
+Each person should pay?
